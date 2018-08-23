@@ -18,7 +18,7 @@ const title = createElement(
 */
 
 
-//JSX need to be traspiled wit Babel. Not working natively in the browser
+//JSX syntax used here needs to be traspiled with Babel. Not working natively in the browser
 //A script has been added to index.html head for running a babel 5 traspiler srcipt 
 render(
     <h1 id='title'
